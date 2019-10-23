@@ -7,3 +7,4 @@ adele_goldberg = Person.new
 class Person
 end
 alan_kay = Person.new
+ => #<Person:0x00000000017789f8>
