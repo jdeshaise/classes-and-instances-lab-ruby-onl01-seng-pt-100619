@@ -11,7 +11,6 @@ end
 snoopy = Dog.new
 class  Dog
 end
-
 => #<Dog:0x0000000002122e18>
 
 class  Dog
