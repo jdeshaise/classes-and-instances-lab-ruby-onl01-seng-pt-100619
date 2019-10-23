@@ -17,3 +17,4 @@ class  Dog
 end
 
 lassie = Dog.new
+ => #<Dog:0x0000000002179b28>
